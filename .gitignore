@@ -1,0 +1,14 @@
+# Secrets / keys
+api_key.txt
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
